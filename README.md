@@ -1,2 +1,2 @@
 # curso-codeigniter
-estudando-**codeigniter** + *bootstrap* + php8
+estudando-**codeigniter** + *bootstrap* 
